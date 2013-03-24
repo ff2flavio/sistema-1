@@ -1,0 +1,9 @@
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\bin\Debug\ERP - Transportadora.exe.config
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\bin\Debug\ERP - Transportadora.exe
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\bin\Debug\ERP - Transportadora.pdb
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\obj\Debug\ERP - Transportadora.csprojResolveAssemblyReference.cache
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\obj\Debug\ERP___Transportadora.f_principal.resources
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\obj\Debug\ERP_Transportadora.Properties.Resources.resources
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\obj\Debug\ERP - Transportadora.csproj.GenerateResource.Cache
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\obj\Debug\ERP - Transportadora.exe
+D:\Sistemas\C#\ERP\ERP - Transportadora\ERP - Transportadora\obj\Debug\ERP - Transportadora.pdb
